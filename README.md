@@ -2,7 +2,7 @@
 
 Create an Android applicationn in Kotlin that allows users to dynamically add and store water resource details using a TableLayout.
 
-## Main Screen
+## Here is the Main Screen
 <img src="https:https://github.com/amanuelkb9/Mobile_Device_Programing_Assigment_3/tree/main/screenshots/main_screen.png" height="600" width="300" />
 
 ## Added Water Resource Screen with Toast Display
