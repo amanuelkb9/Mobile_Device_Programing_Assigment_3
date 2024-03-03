@@ -1,4 +1,5 @@
-<h1 align="center">Dynamic Table For Storing Water Resource Details</h1>
+<h1 align="center">Mobile_Device_Programing_Assigment_3
+</h1>
 
 Create an Android applicationn in Kotlin that allows users to dynamically add and store water resource details using a TableLayout.
 
